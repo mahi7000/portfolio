@@ -10,7 +10,7 @@ export function Projects() {
       image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
       tech: ["React", "Node.js", "Express.js", "MongoDB", "Stripe"],
       github: "https://github.com/mahi7000/Negest",
-      live: "https://example.com"
+      live: "https://negest.netlify.app/"
     },
     {
       title: "TimeBank - Skill Sharing Platform",
